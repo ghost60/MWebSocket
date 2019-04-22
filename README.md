@@ -1,10 +1,11 @@
 # MWebSocket
-easy to use websocket for react
+#### easy to use websocket for react
 
-yarn add MWebSocket
-import MWebSocket fron 'MWebSocket'
+#### yarn add MWebSocket
+#### import MWebSocket fron 'MWebSocket'
 
 ...
+```
 state = {
     data: ''
   }
@@ -23,4 +24,5 @@ state = {
     var handlerArgs = [...arguments]
     this.setState({ data: handlerArgs[0] })
   }
+  ```
   ...
