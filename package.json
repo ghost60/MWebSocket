@@ -1,0 +1,23 @@
+{
+  "name": "mwebsocket",
+  "version": "1.0.0",
+  "description": "react for heartbeat mechanism and easy to use for react",
+  "main": "MWebSocket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghost60/MWebSocket.git"
+  },
+  "keywords": [
+    "websocket",
+    "heartbeat"
+  ],
+  "author": "Ghost60",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghost60/MWebSocket/issues"
+  },
+  "homepage": "https://github.com/ghost60/MWebSocket#readme"
+}

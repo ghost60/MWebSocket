@@ -1,5 +1,5 @@
 # MWebSocket
-#### easy to use websocket for react
+#### websocket use heartbeat mechanism and easy to use for react
 
 #### yarn add MWebSocket
 #### import MWebSocket fron 'MWebSocket'
